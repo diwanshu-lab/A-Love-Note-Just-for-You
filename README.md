@@ -66,4 +66,3 @@
 const secretCode = 'Dev'; // Change this to your love's name 💖
 const nextPageUrl = 'main.html'; // Destination after login
 
----
