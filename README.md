@@ -60,7 +60,7 @@
 ---
 ## 🧸 Demo Screenshot
 
-![Banner](https://github.com/user-attachments/assets/05f3e171-dfa5-4bca-b6e3-0f0fd9699a76)
+![Banner](https://github.com/user-attachments/assets/e2d8aa8f-b259-4397-86dc-8dd1640de389)
 ---
 ```js
 const secretCode = 'Dev'; // Change this to your love's name 💖
